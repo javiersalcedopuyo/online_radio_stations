@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1,The Classical Station
+#EXTVLCOPT:url=https://theclassicalstation.org/
+#EXTIMG:https://theclassicalstation.org/wp-content/themes/nmc_classicalstation/favicon.png
+http://audio-ice1.ibiblio.org:8000/wcpe48.aac
+#EXTINF:-1,FLUX FM ChillHop
+#EXTVLCOPT:url=https://www.fluxfm.de/radio-livestream/#
+#EXTIMG:https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png
+http://streams.fluxfm.de/Chillhop/mp3-320
+#EXTINF:-1,Kalizo Radio - lo-fi
+#EXTVLCOPT:url=https://kalizoradio.com/
+#EXTIMG:https://kalizoradio.com/images/kalizoradio-lofi-profile.jpg
+http://streams.dez.ovh:8000/radio.mp3
+#EXTINF:-1,Lofi Radio
+#EXTVLCOPT:url=https://play.streamafrica.net/lofiradio
+#EXTIMG:https://static.wikia.nocookie.net/lofigirl/images/3/3b/Jade_gen_6_1.png/revision/latest/scale-to-width-down/700?cb=20250917012024
+https://play.streamafrica.net/lofiradio
+#EXTINF:-1,MoE Lofi
+#EXTVLCOPT:url=https://zeno.fm/radio/moe-lofi/
+#EXTIMG:https://zeno.fm/_ipx/_/https://images.zeno.fm/DDbFNwXFnMQZpksowdmNPcLxdS0gZ9hM7iK0g7BWHjs/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRElnTEdVdkFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0luLXZkbFFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTg2NzkwMjAwMA.webp
+http://stream.zeno.fm/3u1qndyk8rhvv
+#EXTINF:-1,Soma FM - Thistle Radio
+#EXTVLCOPT:url=https://somafm.com/thistle/
+#EXTIMG:https://somafm.com/img3/thistle-400.jpg
+https://ice6.somafm.com/thistle-128-aac
+#EXTINF:-1,Soma FM - Tiki Time
+#EXTVLCOPT:url=https://somafm.com/tikitime/
+#EXTIMG:https://somafm.com/logos/400/tikitime-400.jpg
+https://ice6.somafm.com/tikitime-128-aac
+#EXTINF:-1,Soma FM - Vaporwaves
+#EXTVLCOPT:url=https://somafm.com/vaporwaves/
+#EXTIMG:https://somafm.com/img3/vaporwaves400.png
+https://ice6.somafm.com/vaporwaves-128-aac
+#EXTINF:-1,Nightride FM
+#EXTVLCOPT:url=https://nightride.fm/
+#EXTIMG:https://nightride.fm/thumbnail.png
+https://stream.nightride.fm/nightride.mp3
+#EXTINF:-1,Nightride FM - Chillsynth
+#EXTVLCOPT:url=https://nightride.fm/
+#EXTIMG:https://nightride.fm/thumbnail.png
+https://stream.nightride.fm/chillsynth.mp3
+#EXTINF:-1,Nightride FM - Spacesynth
+#EXTVLCOPT:url=https://nightride.fm/
+#EXTIMG:https://nightride.fm/thumbnail.png
+https://stream.nightride.fm/spacesynth.mp3
+#EXTINF:-1,Rock FM
+#EXTVLCOPT:url=http://www.rockfm.fm/
+#EXTIMG:https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png
+https://flucast31-h-cloud.flumotion.com/cope/rockfm-low.mp3
+#EXTINF:-1,iRock 24/7
+#EXTVLCOPT:url=http://www.irock247.com/
+#EXTIMG:http://www.irock247.com/favicon.ico
+https://streamer.radio.co/s493283a7e/listen
+#EXTINF:-1,Hard Rock Heaven
+#EXTVLCOPT:url=https://www.hrhradio.com/
+#EXTIMG:https://www.radio.net/175/hardrockheaven.png
+http://hydra.cdnstream.com:80/1521_128
+#EXTINF:-1,PLANET ROCK: Where Rock Lives
+#EXTVLCOPT:url=https://www.hellorayo.co.uk/planet-rock
+#EXTIMG:https://cdn-profiles.tunein.com/s2377/images/logod.png
+https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+
