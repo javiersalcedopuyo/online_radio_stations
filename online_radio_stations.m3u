@@ -3,6 +3,10 @@
 #EXTVLCOPT:url=https://theclassicalstation.org/
 #EXTIMG:https://theclassicalstation.org/wp-content/themes/nmc_classicalstation/favicon.png
 http://audio-ice1.ibiblio.org:8000/wcpe48.aac
+#EXTINF:-1,Ella Radio - Mellow Piano Jazz
+#EXTVLCOPT:url=https://www.ella-radio.de/
+#EXTIMG:https://ella-radio.de/uplink/Ella_Mellow-Piano-Jazz.jpg
+https://stream.ella-radio.de/ella-mellow-piano-jazz/mp3-192/?ref=radio-browser
 #EXTINF:-1,FLUX FM ChillHop
 #EXTVLCOPT:url=https://www.fluxfm.de/radio-livestream/#
 #EXTIMG:https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png
